@@ -23,12 +23,12 @@
 A Python package that provides various core tools}
 
 Name:    python-%project_name
-Version: 0.2
-Release: 2%{?dist}
+Version: 0.2.1
+Release: 1%{?dist}
 Summary: A Python package that provides various core tools
 
 Group:   Development/Languages
-License: GPLv3
+License: MIT
 URL:     http://github.com/KonishchevDmitry/%project_name
 Source:  http://pypi.python.org/packages/source/p/%project_name/%project_name-%{version}.tar.gz
 

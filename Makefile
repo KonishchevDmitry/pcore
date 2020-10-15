@@ -5,7 +5,7 @@ INSTALL_FLAGS ?=
 
 NAME          := pcore
 RPM_NAME      := python-$(NAME)
-VERSION       := 0.1
+VERSION       := 0.2.1
 
 build:
 	$(PYTHON) setup.py build
